@@ -4,6 +4,8 @@
 
 Every HR transaction, checked against every written rule. Each exception explained with its rule and evidence, routed to an owner, and decided by a person.
 
+**Demo video (under 3 minutes):** https://loom.com/share/7807ee4d4aeb47d9a1ca47ab179bfbbf
+
 **Live prototype:** https://aonami-raqib.vercel.app. It is hosted, needs no install, and runs entirely in your browser with no cloud AI. Press **Guided demo** for a walk-through.
 
 ## Results on our held-out test set
